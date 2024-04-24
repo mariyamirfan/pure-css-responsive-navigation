@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+#nav{
+    padding: 7px 15px 10px 20px;
+    width: 92%;
+    background-color: #283747;
+    height: 60px;
+    border-radius: 10px;
+    margin: 12px auto;
+}
+
+#item1{
+    background-color: #3498DB;
+    width: 85px;
+    height: calc(25px - 5px);
+    padding: 5px;
+    border-radius: 5px;
+    margin-right: 25px;
+}
+
+nav h4{
+    text-transform: uppercase;
+    display: inline-block;color: white;
+    margin: 22px 540px 10px 30px;
+    font-size: 19px;
+}
+
+.items a{
+    text-transform: capitalize;
+    color: white;
+    text-decoration: none;
+    margin-right: 50px;
+}
+#item1 a{
+    position: relative;
+    left: 22px;
+}
+.items{
+    display: inline-block;
+
+}
+
+#left h1{
+    text-transform: uppercase;
+    color: #2E4053;
+    font-size: 80px;
+    letter-spacing: 0.2px;
+}
+
+
+#container2{
+    margin: 0px 100px 300px 100px;
+}
+
+#left{
+    margin-top: 75px;
+    margin-right: 300px;
+    position: relative;
+    bottom: 15px;
+}
+
+#container2 div{
+    display: inline-block;
+}
+#span2{
+    color: #3498DB;
+    display: block;
+}
+
+
+#right{
+    height: 425px;
+    position: relative;
+    bottom: 80px;
+    width: 25%;
+    background-color: #2E4053;
+    color: white;
+    border-radius: 10px;
+}
+
+#right #icond i{
+    display: inline-block;
+    position: relative;
+    top: 2px;
+}
+
+#right #icond{
+    display: inline-block;
+    background-color: #3498DB;
+    border-radius: 3px;
+    width: 25px;
+    text-align: center;
+    height: 20px;
+    position: relative;
+    bottom: 3px;
+}
+
+#cob{
+    margin-top: 30px;
+    width: 100%;
+}
+#right span{
+    text-transform: uppercase;
+    color: white;
+    font-size: 19px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 120px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+#cob div a{
+    color: white;
+    text-transform: capitalize;
+    text-decoration: none;
+    font-size: 16px;
+}
+#cob #box1 a{
+    position: relative;
+    top: 5px;
+}
+#cob #box1{
+    background-color: #3498DB;
+    border-radius: 5px;
+    width: 85%;
+    height: 30px;
+    margin: 0px auto 10px auto;
+}
+
+#cob div{
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
